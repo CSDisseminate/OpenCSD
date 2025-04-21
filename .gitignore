@@ -1,51 +1,54 @@
-# History files
+.Rproj.user
 .Rhistory
-.Rapp.history
-
-# Session Data files
 .RData
-.RDataTmp
-
-# User-specific files
 .Ruserdata
 
-# Example code in package build process
-*-Ex.R
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
 
-# Output files from R CMD build
-/*.tar.gz
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
 
-# Output files from R CMD check
-/*.Rcheck/
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
 
-# RStudio files
-.Rproj.user/
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
+# IDE
+*.idea
+*.iml
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
+# Generated files
+/web-app/WEB-INF
+build/
+*.[oa]
+*.pyc
 
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
 
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
-
-# R Environment Variables
-.Renviron
-
-# pkgdown site
-docs/
-
-# translation temp files
-po/*~
-
-# RStudio Connect folder
-rsconnect/
+# automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
 
 /.quarto/
