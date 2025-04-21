@@ -6,6 +6,14 @@ draft: false
 title-block-banner: true
 ---
 
+:::: {style="text-align: center; padding-top: 2em; padding-bottom: 2em;"}
+<img src="Images/CSDisseminate Logo_White Logo_Purple Background Circle.png" alt="CSDisseminate Logo" style="width: 200px;"/>
+
+::: {style="font-size: 2em; font-weight: 700; margin-top: 1em;"}
+OpenCSD + CSDisseminate
+:::
+::::
+
 Hello!
 
 We’ve got some exciting news: OpenCSD and CSDisseminate are joining forces and becoming one working group! Our mission is still the same: to spread the word about open science in communication sciences and disorders (CSD). But now we’re doing it together.
